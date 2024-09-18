@@ -1,2 +1,2 @@
 # Wearables_depression_classification
-project
+depression classification projec
